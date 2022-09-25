@@ -3,5 +3,5 @@
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
 
-![Stats Overview](https://raw.githubusercontent.com/pedroofrancaa/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/pedroofrancaa/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/pedroofrancaa/github-stats-transparent/c37bd787157ebb5481a0969f0695183c333afbe2/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/pedroofrancaa/github-stats-transparent/c37bd787157ebb5481a0969f0695183c333afbe2/generated/languages.svg)
