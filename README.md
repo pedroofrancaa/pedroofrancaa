@@ -18,7 +18,7 @@
  ## Graduation (in progress)
  
  - 📖 **Engenhaia de Software / Software Engineering**\
-📆 2022 - 2025 <br>
+📆 2022 - ≈2026 <br>
 📍 **Catholic University of Brasilia** - Brasília, Brazil
   
 ## 📊 Github Stats
