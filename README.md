@@ -12,8 +12,16 @@
   </a>&nbsp;&nbsp;
   
   <!-- Formas de Contato - FIM  -->
+ 
+ </p>
+ 
+ ## Graduation (in progress)
+ 
+ - 📖 **Engenhaia de Software / Software Engineering**\
+📆 2022 - 2025 <br>
+📍 **Catholic University of Brasilia** - Brasília, Brazil
   
-### 📊 Github Stats
+## 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
 
 ![Stats Overview](https://raw.githubusercontent.com/pedroofrancaa/github-stats-transparent/output/generated/overview.svg)
