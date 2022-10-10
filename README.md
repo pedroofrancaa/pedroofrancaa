@@ -11,6 +11,10 @@
     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
   </a>&nbsp;&nbsp;
   
+  <a href="">
+    <img src="https://img.shields.io/badge/devpedrofranca@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
   <!-- Formas de Contato - FIM  -->
  
  </p>
