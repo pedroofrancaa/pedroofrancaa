@@ -1,5 +1,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro França</h1>
 
+<!-- Formas de Contato  -->
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/pedrofrancaa/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.behance.net/pedrofrancaa/">
+    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+  <!-- Formas de Contato - FIM  -->
+  
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
 
