@@ -18,8 +18,8 @@
  ## Graduation (in progress)
  
  - 📖 **Engenharia de Software / Software Engineering**\
-📆 2022 - ≈2026 <br>
-📍 **Universidade Catolica de Brasilia / Catholic University of Brasilia** - Brasília, Brazil
+📆 2023 - ≈2027 <br>
+📍 **Universidade de Brasília / University of Brasilia (UNB)** - Brasília, Brazil
 
 ## ✔️ Technologies & Tools
 
