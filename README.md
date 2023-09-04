@@ -15,7 +15,7 @@
  
  </p>
  
- ## Graduation (in progress)
+ ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/1200px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png" width="5%"/> - Graduation (in progress)
  
  - 📖 **Engenharia de Software / Software Engineering**\
 📆 2023 - ≈2027 <br>
